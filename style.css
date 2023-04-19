@@ -19,8 +19,8 @@ main {
     margin: 10vh auto;
     width: 400px;
     text-align: center;
-    background-color: #203A43;
-    background-color: #0F2027;
+    /* background-color: #203A43;
+    background-color: #0F2027; */
     border: 2px solid #F1F2F6;
     border-radius: 10px;
 }
