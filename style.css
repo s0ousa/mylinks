@@ -55,7 +55,7 @@ h1 {
 
 .link:hover {
     background-color: #F1F2F6;
-    color: black;
+    color: #0f2027;
     transition: 0.6s;
 }
 
@@ -69,4 +69,10 @@ svg {
     margin: 10px;
     color: #01A7C2;
     
+}
+
+@media (max-width:450px) {
+    main {
+        width: 90%;
+    }
 }
